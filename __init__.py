@@ -16,7 +16,7 @@ md_version = "2.0"
 md_name = 'DuckDuckGo'
 md_description = 'Inline DuckDuckGo web search'
 md_license = "MIT"
-md_url = 'https://github.com/albertlauncher/python/tree/main/duckduckgo'
+md_url = 'https://github.com/albertlauncher/albert-plugin-python-duckduckgo'
 md_lib_dependencies = "duckduckgo-search"
 md_authors = "@manuelschneid3r"
 
